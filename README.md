@@ -1,2 +1,5 @@
 # malak-eslam-OOP-Assignment-2
-Assignment repo for assignment/1-6 (OOP Assignment 2)
+# Backend .NET  — SRP, Design Patterns & Inheritance & LeetCode
+
+**Name:** Malak Eslam  
+**Group:** 2 (Monday & Thursday)
